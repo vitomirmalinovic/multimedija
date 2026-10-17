@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+zadatak/calibration.npz
+zadatak/output_videos/
