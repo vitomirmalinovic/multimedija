@@ -4,3 +4,4 @@ __pycache__/
 .idea/
 zadatak/calibration.npz
 zadatak/output_videos/
+.pytest_cache/
