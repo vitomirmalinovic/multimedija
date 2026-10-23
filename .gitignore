@@ -3,5 +3,5 @@ __pycache__/
 .vscode/
 .idea/
 zadatak/calibration.npz
-zadatak/output_videos/
+zadatak/output_videos/challenge03_output.mp4
 .pytest_cache/
